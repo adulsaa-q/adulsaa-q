@@ -49,7 +49,7 @@ Data analyst with focus on e-commerce analytics and business intelligence. I bui
 
 ## Featured Projects
 
-### [🔍 AI Brand Visibility Tracker](https://github.com/adulsaa-q/ai-brand-tracker)
+### [🔍 AI Brand Visibility Tracker](https://github.com/adulsaa-q/ai_brand_tracker)
 **Measuring brand presence in AI-powered recommendations**
 
 Track how AI models mention and rank brands across different query types. Analyzed 270+ responses to quantify brand visibility in the emerging GEO landscape.
