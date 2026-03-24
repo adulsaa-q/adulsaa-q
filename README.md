@@ -1,35 +1,86 @@
-<div align="Left">
+<div align="center">
 
 # Hi, I'm Q 👋
 
-**Data Analyst · Bangkok, Thailand**  
-Power Query · DAX · SQL · Power BI
+**Data Analyst** • Bangkok, Thailand
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-adulsaa-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/adulsaa)
-[![GitHub](https://img.shields.io/badge/GitHub-adulsaa--q-181717?style=flat&logo=github)](https://github.com/adulsaa-q)
+Turning data into actionable insights through visualization and automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adulsaa-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adulsaa)
+[![GitHub](https://img.shields.io/badge/GitHub-adulsaa--q-181717?style=flat-square&logo=github)](https://github.com/adulsaa-q)
 
 </div>
 
 ---
 
-### 🛠️ Stack
+## About Me
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+Data analyst with focus on e-commerce analytics and business intelligence. I build end-to-end data pipelines and create dashboards that drive business decisions. Currently exploring AI observability and generative engine optimization (GEO).
 
----
-
-### 📌 Featured Project
-
-**[🛒 Allnii Marketplace Pipeline](https://github.com/adulsaa-q/ecommerce-sales-pipeline)**  
-End-to-end data pipeline for Shopee & Lazada  
-`Power Query` `Star Schema` `Power BI` `DAX`
+**What I do:**
+- Design and maintain data pipelines for marketplace analytics
+- Build interactive dashboards in Power BI
+- Automate data workflows and reporting processes
+- Analyze AI model behavior and brand visibility patterns
 
 ---
 
-### 📊 GitHub Stats
+## Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=adulsaa-q&show_icons=true&theme=default&hide_border=true" />
+**Analytics & BI**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square)
+
+**Data & Programming**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Workflow**  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Featured Projects
+
+### [🔍 AI Brand Visibility Tracker](https://github.com/adulsaa-q/ai-brand-tracker)
+**Measuring brand presence in AI-powered recommendations**
+
+Track how AI models mention and rank brands across different query types. Analyzed 270+ responses to quantify brand visibility in the emerging GEO landscape.
+
+`Python` `Gemini API` `pandas` `SQLite` `Data Analysis` `Visualization`
+
+**Impact:** Identified 0% visibility for target brand, quantified competitive gaps (78.8% vs 0%), discovered high-value content categories
+
+---
+
+### [🛒 Allnii Marketplace Pipeline](https://github.com/adulsaa-q/ecommerce-sales-pipeline)
+**End-to-end analytics for Shopee & Lazada marketplace data**
+
+Automated ETL pipeline processing multi-platform e-commerce data with dimensional modeling and interactive Power BI dashboards.
+
+`Power Query` `Star Schema` `Power BI` `DAX` `ETL`
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adulsaa-q&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Currently learning:** Advanced Python for data engineering • Multi-model AI analysis
+
+</div>
