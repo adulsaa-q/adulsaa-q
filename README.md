@@ -8,6 +8,8 @@ Turning data into actionable insights through visualization and automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adulsaa-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adulsaa)
 [![GitHub](https://img.shields.io/badge/GitHub-adulsaa--q-181717?style=flat-square&logo=github)](https://github.com/adulsaa-q)
+![Profile Views](https://komarev.com/ghpvc/?username=adulsaa-q&style=flat-square&color=58a6ff&label=profile+views)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adulsaa-q.adulsaa-q)
 
 </div>
 
@@ -27,19 +29,19 @@ Data analyst with focus on e-commerce analytics and business intelligence. I bui
 
 ## Tech Stack
 
-**Analytics & BI**  
+**Analytics & BI**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Data & Programming**  
+**Data & Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools & Workflow**  
+**Tools & Workflow**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -71,11 +73,10 @@ Automated ETL pipeline processing multi-platform e-commerce data with dimensiona
 
 ## GitHub Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adulsaa-q&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adulsaa-q/adulsaa-q/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/adulsaa-q/adulsaa-q/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
