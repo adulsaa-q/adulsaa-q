@@ -8,8 +8,6 @@ Turning data into actionable insights through visualization and automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adulsaa-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adulsaa)
 [![GitHub](https://img.shields.io/badge/GitHub-adulsaa--q-181717?style=flat-square&logo=github)](https://github.com/adulsaa-q)
-![Profile Views](https://komarev.com/ghpvc/?username=adulsaa-q&style=flat-square&color=58a6ff&label=profile+views)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=adulsaa-q.adulsaa-q)
 
 </div>
 
@@ -29,9 +27,23 @@ Data analyst with focus on e-commerce analytics and business intelligence. I bui
 
 ## Tech Stack
 
-| Analytics & BI | Data & Programming | Tools & Workflow |
-|---|---|---|
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+**Analytics & BI**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square)
+
+**Data & Programming**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Workflow**  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -44,7 +56,7 @@ Track how AI models mention and rank brands across different query types. Analyz
 
 `Python` `Gemini API` `pandas` `SQLite` `Data Analysis` `Visualization`
 
-> **Impact:** Identified 0% visibility for target brand, quantified competitive gaps (78.8% vs 0%), discovered high-value content categories
+**Impact:** Identified 0% visibility for target brand, quantified competitive gaps (78.8% vs 0%), discovered high-value content categories
 
 ---
 
@@ -61,15 +73,7 @@ Automated ETL pipeline processing multi-platform e-commerce data with dimensiona
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adulsaa-q/adulsaa-q/output/profile-summary-card-output/github_octopus/0-profile-details.svg" width="100%">
-
-<img src="https://raw.githubusercontent.com/adulsaa-q/adulsaa-q/output/profile-summary-card-output/github_octopus/2-most-commit-language.svg" width="49%">
-<img src="https://raw.githubusercontent.com/adulsaa-q/adulsaa-q/output/profile-summary-card-output/github_octopus/3-stats.svg" width="49%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adulsaa-q/adulsaa-q/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/adulsaa-q/adulsaa-q/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adulsaa-q&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 </div>
 
@@ -77,6 +81,6 @@ Automated ETL pipeline processing multi-platform e-commerce data with dimensiona
 
 <div align="center">
 
-*Currently learning: Advanced Python for data engineering • Multi-model AI analysis*
+**Currently learning:** Advanced Python for data engineering • Multi-model AI analysis
 
 </div>
