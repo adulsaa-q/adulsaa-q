@@ -121,20 +121,20 @@ Consolidated **2-platform** e-commerce data (Shopee & Lazada) into a unified Pow
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
-
+  
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=adulsaa-q&show_icons=true&theme=algolia&hide_border=true&count_private=true&icon_color=009688&title_color=009688&ring_color=009688&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adulsaa-q&theme=algolia&hide_border=true&ring=009688&fire=26A69A&currStreakLabel=009688" width="49%" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adulsaa-q&theme=algolia&hide_border=true&ring=009688&fire=26A69A&currStreakLabel=009688" width="60%" />
 </div>
 
-<div align="center">
+--- 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adulsaa-q&layout=compact&theme=algolia&hide_border=true&title_color=009688&langs_count=8" width="42%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=adulsaa-q&theme=algolia&no-bg=true&no-frame=true&column=4&margin-w=10" width="52%" />
-
-</div>
+## 🌱 &nbsp;Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+</p>
 
 ---
 
