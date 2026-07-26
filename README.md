@@ -1,22 +1,16 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F3F4F6&center=true&vCenter=true&random=false&width=600&lines=Financial+Analytics+%7C+Power+BI+%7C+Automation;Turning+Complex+Data+into+Executive+Insights;Building+Scalable+Data+Pipelines+%26+DAX+Models" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  # Q (Adul Sa-a)
-  ### **Data Analyst & BI Developer** · Bangkok, Thailand
+  <h1 style="color: #F2F0EF; font-size: 2.4em; font-weight: 800; letter-spacing: 1px; margin-bottom: 6px;">Q (ADUL SA-A)</h1>
+  <h3 style="color: #E5E7EB; font-weight: 600; margin-top: 0;">DATA ANALYST & BI DEVELOPER · BANGKOK, THAILAND</h3>
 
   <sub>Specializing in Financial Analytics · Enterprise Power BI Semantic Models · Automated Data Pipelines · AI-Integrated Workflows</sub>
 
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/adulsaa"><img src="https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/adulsaa"><img src="https://img.shields.io/badge/LinkedIn-F2F0EF?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>&nbsp;
   <a href="https://github.com/adulsaa-q"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="mailto:adulsaa.q@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/adulsaa-q"><img src="https://img.shields.io/badge/Status-Open_to_Work-F3F4F6?style=for-the-badge&logoColor=0d1117" /></a>
+  <a href="https://github.com/adulsaa-q"><img src="https://img.shields.io/badge/Status-Open_to_Work-F2F0EF?style=for-the-badge&logoColor=0d1117" /></a>
 
 </div>
 
@@ -153,27 +147,25 @@ Evaluated LLM brand visibility mentions, revealing competitive gaps (<b>78.8% vs
 
 ---
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;System Telemetry & Terminal Console
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23F2F0EF" width="22" valign="middle" /> &nbsp;System Telemetry & Terminal Console
 
 ```text
-┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ [SYS_TELEMETRY // TERMINAL_CONSOLE_v2.6]                                                                                                    │
-├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│ $ q-sys --fetch-capabilities                                                                                                                │
-│ [OK] Diagnostic Complete. Core Capabilities Verified:                                                                                       │
-│                                                                                                                                             │
-│     ▸ POWER_BI_DAX       : [====================] 98%  (PBIP/TMDL 70+ DAX)                                                                  │
-│     ▸ FINANCIAL_RECON    : [====================] 98%  (Multi-Center P&L)                                                                   │
-│     ▸ SQL_SERVER_TSQL    : [==================  ] 92%  (Query Tuning & Audit)                                                               │
-│     ▸ PYTHON_PIPELINES   : [=================   ] 88%  (REST API / pandas)                                                                  │
-│     ▸ PROCESS_AUTOMATION : [================    ] 82%  (Power Automate Workflows)                                                           │
-│     ▸ AI_OBSERVABILITY   : [===============     ] 78%  (GEO Brand Tracker System)                                                           │
-│                                                                                                                                             │
-│ $ q-sys --status                                                                                                                            │
-│ STATUS: ACTIVE_SYSTEM // READY_FOR_ENTERPRISE_DEPLOYMENT                                                                                    │
-└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+[SYS_TELEMETRY // TERMINAL_CONSOLE_v2.6]
+───────────────────────────────────────────────────────────────────────────────────────────────────
+$ q-sys --fetch-capabilities
+[OK] Diagnostic Complete. Core Capabilities Verified:
+
+  ▸ POWER_BI_DAX       : [====================] 98%  (PBIP/TMDL 70+ DAX)
+  ▸ FINANCIAL_RECON    : [====================] 98%  (Multi-Center P&L & Balance Sheet)
+  ▸ SQL_SERVER_TSQL    : [==================  ] 92%  (Query Tuning & Indexing Audit)
+  ▸ PYTHON_PIPELINES   : [=================   ] 88%  (REST API Ingestion & pandas ETL)
+  ▸ PROCESS_AUTOMATION : [================    ] 82%  (Power Automate Workflows & Scripts)
+  ▸ AI_OBSERVABILITY   : [===============     ] 78%  (GEO Brand Visibility Tracker)
+
+$ q-sys --status
+STATUS: ACTIVE_SYSTEM // READY_FOR_ENTERPRISE_DEPLOYMENT
 ```
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30363d,100:F3F4F6&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30363d,100:F2F0EF&height=120&section=footer" width="100%" />
