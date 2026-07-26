@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D40,50:009688,100:26A69A&height=230&section=header&text=Hi,%20I'm%20Q%20👋&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analyst%20•%20Bangkok,%20Thailand&descAlignY=55&descSize=18&descColor=B2DFDB&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D40,50:009688,100:26A69A&height=230&section=header&text=Hi,%20I'm%20Q%20👋&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analyst%20%26%20BI%20Developer%20•%20Bangkok,%20Thailand&descAlignY=55&descSize=18&descColor=B2DFDB&animation=fadeIn" width="100%" />
 
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009688&center=true&vCenter=true&random=false&width=550&lines=Turning+data+into+actionable+insights;E-commerce+Analytics+%7C+BI+%7C+Automation;Building+dashboards+that+drive+decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009688&center=true&vCenter=true&random=false&width=550&lines=Turning+data+into+actionable+insights;Financial+Analytics+%7C+Power+BI+%7C+Automation;Building+dashboards+that+drive+executive+decisions" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -24,7 +24,7 @@
 
   <br/>
 
-  <img src="https://img.shields.io/badge/🟢_Open_to_Work-Data_Analyst_/_Data_Engineer-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟢_Open_to_Work-Data_Analyst_/_BI_Developer-009688?style=for-the-badge" />
 
 </div>
 
@@ -32,7 +32,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
 
-Data Analyst with a focus on **e-commerce analytics** and **BI automation**. I build end-to-end pipelines and dashboards that helped grow revenue **16% MoM** while cutting ad spend by **32%** — and automated workflows that reduced manual work by **80–90%**.
+Data Analyst & BI Developer focused on **Financial Analytics (P&L, Balance Sheet)**, **Advanced DAX Modeling**, and **Automated Data Pipelines**. 
+
+Experienced in building multi-page enterprise Power BI dashboards (PBIP/TMDL), auditing complex DAX queries, and reconciling numbers across SQL Server, REST APIs, and automated email reports to ensure 100% data precision.
 
 Currently exploring **AI observability** and **Generative Engine Optimization (GEO)**.
 
@@ -45,27 +47,27 @@ Currently exploring **AI observability** and **Generative Engine Optimization (G
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=000000" />
   <img src="https://img.shields.io/badge/Power_Query_(M)-F2C811?style=for-the-badge&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Financial_Analytics-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" /> Data & Programming
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" /> Data & Querying
 <p>
+  <img src="https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" /> Automation & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" /> Automation, AI & Workflows
 <p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=visualbasic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Reconciliation-009688?style=for-the-badge" />
 </p>
 
 ---
@@ -73,33 +75,25 @@ Currently exploring **AI observability** and **Generative Engine Optimization (G
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="22" /> AI Brand Visibility Tracker](https://github.com/adulsaa-q/ai_brand_tracker)
-
-**Measuring brand presence in AI-powered recommendations**
-
 Designed a system to track how AI models mention and rank brands across different query types. Analyzed **270+ responses** to quantify brand visibility in the emerging **GEO** landscape.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 
 > **Impact:** Identified **0% visibility** for target brand · Quantified competitive gaps (**78.8% vs 0%**) · Discovered high-value content categories for GEO strategy
-
----
 
 </td>
 <td width="50%" valign="top">
 
 ### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="22" /> E-commerce Sales Pipeline](https://github.com/adulsaa-q/ecommerce-sales-pipeline)
-
-**End-to-end analytics for Shopee & Lazada marketplace data**
-
 Consolidated **2-platform** e-commerce data (Shopee & Lazada) into a unified Power BI dashboard — replacing manual Excel reporting entirely.
 
 <p>
@@ -112,23 +106,42 @@ Consolidated **2-platform** e-commerce data (Shopee & Lazada) into a unified Pow
 
 > **Impact:** Reduced manual reporting time **~80%** · Enabled daily **ROAS, Revenue & Ad Spend** monitoring across 2 platforms · Supported budget allocation decisions
 
----
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2" valign="top">
+
+### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" /> Financial Dashboard & DAX Engine](https://github.com/adulsaa-q)
+Enterprise P&L and Balance Sheet Power BI model featuring 70+ custom DAX measures, PBIP/TMDL Git version control, and multi-profit center analytics.
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=000000" />
+  <img src="https://img.shields.io/badge/T--SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+> **Impact:** Reconciled 65.7M THB operating profit with 0 audit variance across 80 profit centers
 
 </td>
-  </tr>
+</tr>
 </table>
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
-  
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adulsaa-q&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adulsaa-q&layout=compact&theme=tokyonight" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adulsaa-q&theme=algolia&hide_border=true&ring=009688&fire=26A69A&currStreakLabel=009688" width="60%" />
 </div>
 
---- 
+---
 
 ## 🌱 &nbsp;Currently Learning
+
 <p>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
@@ -138,15 +151,4 @@ Consolidated **2-platform** e-commerce data (Shopee & Lazada) into a unified Pow
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" /> &nbsp;Contribution Graph
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adulsaa-q&theme=react-dark&hide_border=true&color=009688&line=26A69A&point=B2DFDB&area=true&area_color=004D40" width="95%" />
-
-</div>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D40,50:009688,100:26A69A&height=120&section=footer" width="100%" />
-<!-- Last refresh: Thu Apr  2 22:11:33 UTC 2026 -->
