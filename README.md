@@ -1,126 +1,151 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D40,50:009688,100:26A69A&height=230&section=header&text=Hi,%20I'm%20Q%20👋&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Analyst%20%26%20BI%20Developer%20•%20Bangkok,%20Thailand&descAlignY=55&descSize=18&descColor=B2DFDB&animation=fadeIn" width="100%" />
-
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009688&center=true&vCenter=true&random=false&width=550&lines=Turning+data+into+actionable+insights;Financial+Analytics+%7C+Power+BI+%7C+Automation;Building+dashboards+that+drive+executive+decisions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F3F4F6&center=true&vCenter=true&random=false&width=600&lines=Financial+Analytics+%7C+Power+BI+%7C+Automation;Turning+Complex+Data+into+Executive+Insights;Building+Scalable+Data+Pipelines+%26+DAX+Models" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/adulsaa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:adulsaa.q@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/adulsaa-q">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  # Q (Adul Sa-a)
+  ### **Data Analyst & BI Developer** · Bangkok, Thailand
+
+  <sub>Specializing in Financial Analytics · Enterprise Power BI Semantic Models · Automated Data Pipelines · AI-Integrated Workflows</sub>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=adulsaa-q&style=for-the-badge&color=009688&label=PROFILE+VIEWS" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/🟢_Open_to_Work-Data_Analyst_/_BI_Developer-009688?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/adulsaa"><img src="https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>&nbsp;
+  <a href="https://github.com/adulsaa-q"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="mailto:adulsaa.q@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/adulsaa-q"><img src="https://img.shields.io/badge/Status-Open_to_Work-F3F4F6?style=for-the-badge&logoColor=0d1117" /></a>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+### <img src="https://api.iconify.design/lucide:target.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Key Achievements & Business Impact
 
-Data Analyst & BI Developer focused on **Financial Analytics (P&L, Balance Sheet)**, **Advanced DAX Modeling**, and **Automated Data Pipelines**. 
-
-Experienced in building multi-page enterprise Power BI dashboards (PBIP/TMDL), auditing complex DAX queries, and reconciling numbers across SQL Server, REST APIs, and automated email reports to ensure 100% data precision.
-
-Currently exploring **AI observability** and **Generative Engine Optimization (GEO)**.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<br/>
+<img src="https://api.iconify.design/lucide:dollar-sign.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;<b>FINANCIAL PRECISION ENGINE</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/PRECISION-100%25_AUDITED-0d1117?style=for-the-badge&logoColor=F3F4F6" />
+<br/><br/>
+Reconciled multi-center P&L and Balance Sheet models with <b>100% data precision</b> against auditor reports.
+<br/><br/>
+</td>
+<td width="50%" valign="top">
+<br/>
+<img src="https://api.iconify.design/lucide:zap.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;<b>DATA PIPELINE AUTOMATION</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/LEAD--TIME-~80%25_SAVED-0d1117?style=for-the-badge&logoColor=F3F4F6" />
+<br/><br/>
+Consolidated Shopee & Lazada multi-channel ingestion into Power BI, replacing manual Excel.
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<br/>
+<img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;<b>ENTERPRISE BI ARCHITECTURE</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/DAX_ENGINE-70%2B_MEASURES-0d1117?style=for-the-badge&logoColor=F3F4F6" />
+<br/><br/>
+Built P&L & Balance Sheet semantic models using <b>PBIP / TMDL</b> Git version control.
+<br/><br/>
+</td>
+<td width="50%" valign="top">
+<br/>
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;<b>AI OBSERVABILITY & GEO</b>
+<br/><br/>
+<img src="https://img.shields.io/badge/GEO_TRACKING-270%2B_PROMPTS-0d1117?style=for-the-badge&logoColor=F3F4F6" />
+<br/><br/>
+Evaluated LLM brand visibility mentions, revealing competitive gaps (<b>78.8% vs 0%</b>).
+<br/><br/>
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> &nbsp;Tech Stack
+### <img src="https://api.iconify.design/lucide:layers.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Tech Stack & Domain Expertise
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" /> Analytics & BI
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Power_Query_(M)-F2C811?style=for-the-badge&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Financial_Analytics-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" /> Data & Querying
-<p>
-  <img src="https://img.shields.io/badge/T--SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" /> Automation, AI & Workflows
-<p>
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Reconciliation-009688?style=for-the-badge" />
-</p>
+<table width="100%">
+<tr>
+<td width="25%"><b>Analytics & Enterprise BI</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=000000" />
+  <img src="https://img.shields.io/badge/PBIP_/_TMDL-F2C811?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_Query-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Financial_Analytics-004D40?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="25%"><b>Data Engineering</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/T--SQL-CC292B?style=flat-square" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td width="25%"><b>Automation & AI Workflows</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI--Integrated_BI-8E75B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_API_ETL-009688?style=flat-square" />
+</td>
+</tr>
+</table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
+### <img src="https://api.iconify.design/lucide:rocket.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="22" /> AI Brand Visibility Tracker](https://github.com/adulsaa-q/ai_brand_tracker)
-Designed a system to track how AI models mention and rank brands across different query types. Analyzed **270+ responses** to quantify brand visibility in the emerging **GEO** landscape.
+#### <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23F3F4F6" width="20" valign="middle" /> [AI Brand Visibility Tracker](https://github.com/adulsaa-q/ai_brand_tracker)
+> **GEO Analytics System** · Tracked AI model brand mentions across 270+ prompt responses to quantify GEO visibility.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-</p>
-
-> **Impact:** Identified **0% visibility** for target brand · Quantified competitive gaps (**78.8% vs 0%**) · Discovered high-value content categories for GEO strategy
+`Python` `pandas` `SQLite` `Gemini API`
+```text
+✓ Outcome: Quantified gaps (78.8% vs 0%) for GEO strategy
+```
 
 </td>
 <td width="50%" valign="top">
 
-### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="22" /> E-commerce Sales Pipeline](https://github.com/adulsaa-q/ecommerce-sales-pipeline)
-Consolidated **2-platform** e-commerce data (Shopee & Lazada) into a unified Power BI dashboard — replacing manual Excel reporting entirely.
+#### <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%23F3F4F6" width="20" valign="middle" /> [E-commerce Sales Pipeline](https://github.com/adulsaa-q/ecommerce-sales-pipeline)
+> **Multi-Channel ETL** · Consolidated Shopee & Lazada data into a Power BI star schema, replacing manual Excel.
 
-<p>
-  <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Star_Schema-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=000000" />
-  <img src="https://img.shields.io/badge/ETL-004D40?style=flat-square" />
-</p>
-
-> **Impact:** Reduced manual reporting time **~80%** · Enabled daily **ROAS, Revenue & Ad Spend** monitoring across 2 platforms · Supported budget allocation decisions
+`Power BI` `Power Query` `DAX` `ETL`
+```text
+✓ Outcome: Cut reporting lead-time by ~80%
+```
 
 </td>
 </tr>
 <tr>
 <td width="100%" colspan="2" valign="top">
 
-### [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" /> Financial Dashboard & DAX Engine](https://github.com/adulsaa-q)
-Enterprise P&L and Balance Sheet Power BI model featuring 70+ custom DAX measures, PBIP/TMDL Git version control, and multi-profit center analytics.
+#### <img src="https://api.iconify.design/lucide:trending-up.svg?color=%23F3F4F6" width="20" valign="middle" /> [Financial Dashboard & DAX Engine](https://github.com/adulsaa-q)
+> **Enterprise Financial Model** · P&L and Balance Sheet Power BI model featuring 70+ custom DAX measures and TMDL version control.
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=000000" />
-  <img src="https://img.shields.io/badge/T--SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-> **Impact:** Reconciled 65.7M THB operating profit with 0 audit variance across 80 profit centers
+`Power BI` `PBIP/TMDL` `T-SQL` `DAX`
+```text
+✓ Outcome: Achieved 100% data precision in multi-profit-center P&L and Balance Sheet reconciliation
+```
 
 </td>
 </tr>
@@ -128,27 +153,27 @@ Enterprise P&L and Balance Sheet Power BI model featuring 70+ custom DAX measure
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;System Telemetry & Terminal Console
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adulsaa-q&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adulsaa-q&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adulsaa-q&theme=algolia&hide_border=true&ring=009688&fire=26A69A&currStreakLabel=009688" width="60%" />
-</div>
+```text
+┌─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ [SYS_TELEMETRY // TERMINAL_CONSOLE_v2.6]                                                                                                    │
+├─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ $ q-sys --fetch-capabilities                                                                                                                │
+│ [OK] Diagnostic Complete. Core Capabilities Verified:                                                                                       │
+│                                                                                                                                             │
+│     ▸ POWER_BI_DAX       : [====================] 98%  (PBIP/TMDL 70+ DAX)                                                                  │
+│     ▸ FINANCIAL_RECON    : [====================] 98%  (Multi-Center P&L)                                                                   │
+│     ▸ SQL_SERVER_TSQL    : [==================  ] 92%  (Query Tuning & Audit)                                                               │
+│     ▸ PYTHON_PIPELINES   : [=================   ] 88%  (REST API / pandas)                                                                  │
+│     ▸ PROCESS_AUTOMATION : [================    ] 82%  (Power Automate Workflows)                                                           │
+│     ▸ AI_OBSERVABILITY   : [===============     ] 78%  (GEO Brand Tracker System)                                                           │
+│                                                                                                                                             │
+│ $ q-sys --status                                                                                                                            │
+│ STATUS: ACTIVE_SYSTEM // READY_FOR_ENTERPRISE_DEPLOYMENT                                                                                    │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🌱 &nbsp;Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D40,50:009688,100:26A69A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30363d,100:F3F4F6&height=120&section=footer" width="100%" />
