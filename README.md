@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 style="color: #F2F0EF; font-size: 2.4em; font-weight: 800; letter-spacing: 1px; margin-bottom: 6px;">Q (ADUL SA-A)</h1>
-  <h3 style="color: #E5E7EB; font-weight: 600; margin-top: 0;">SENIOR BI & DATA SPECIALIST · AUTOMATION & AI WORKFLOWS</h3>
+  <h3 style="color: #E5E7EB; font-weight: 600; margin-top: 0;">BI & DATA SPECIALIST · AUTOMATION & AI WORKFLOWS</h3>
 
   <sub>Specializing in Enterprise Power BI (PBIR/DAX) · T-SQL & Data Modeling · Production ETL Pipelines · Agentic AI Workflows</sub>
 
