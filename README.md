@@ -3,39 +3,39 @@
   <h1 style="color: #F2F0EF; font-size: 2.4em; font-weight: 800; letter-spacing: 1px; margin-bottom: 6px;">Q (ADUL SA-A)</h1>
   <h3 style="color: #E5E7EB; font-weight: 600; margin-top: 0;">BI & DATA SPECIALIST · AUTOMATION & AI WORKFLOWS</h3>
 
-  <sub>Specializing in Enterprise Power BI (PBIR/DAX) · T-SQL & Data Modeling · Production ETL Pipelines · Agentic AI Workflows</sub>
+  <sub>Power BI Semantic Models (PBIR/DAX) · T-SQL & Data Modeling · Idempotent Data Pipelines · AI-Integrated Tooling</sub>
 
   <br/><br/>
 
   <a href="https://www.linkedin.com/in/adulsaa"><img src="https://img.shields.io/badge/LinkedIn-F2F0EF?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>&nbsp;
   <a href="https://github.com/adulsaa-q"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="mailto:adulsaa.q@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://github.com/adulsaa-q"><img src="https://img.shields.io/badge/Focus-Scalable_BI_%26_Pipelines-0d1117?style=for-the-badge&logoColor=F2F0EF" /></a>
+  <img src="https://img.shields.io/badge/Focus-BI_%26_Data_Pipelines-0d1117?style=for-the-badge&logoColor=F2F0EF" />
 
 </div>
 
 ---
 
-### <img src="https://api.iconify.design/lucide:target.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Key Achievements & Business Impact
+### <img src="https://api.iconify.design/lucide:target.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Core Focus & Practical Impact
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 <br/>
-<img src="https://api.iconify.design/lucide:dollar-sign.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;<b>FINANCIAL PRECISION ENGINE</b>
+<img src="https://api.iconify.design/lucide:dollar-sign.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;<b>FINANCIAL BI & PRECISION</b>
 <br/><br/>
-<img src="https://img.shields.io/badge/PRECISION-100%25_AUDITED-0d1117?style=for-the-badge&logoColor=F3F4F6" />
+<img src="https://img.shields.io/badge/SEMANTIC_MODEL-AUDITED_RECON-0d1117?style=for-the-badge&logoColor=F3F4F6" />
 <br/><br/>
-Reconciled multi-center P&L and Balance Sheet models with <b>100% data precision</b> against auditor reports.
+Reconciled multi-profit-center P&L and Balance Sheet models against financial statements with precision.
 <br/><br/>
 </td>
 <td width="50%" valign="top">
 <br/>
 <img src="https://api.iconify.design/lucide:shield-check.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;<b>IDEMPOTENT DATA PIPELINES</b>
 <br/><br/>
-<img src="https://img.shields.io/badge/PIPELINES-ZERO_DATA_LOSS-0d1117?style=for-the-badge&logoColor=F3F4F6" />
+<img src="https://img.shields.io/badge/DATA_PIPELINE-AUDITED_ETL-0d1117?style=for-the-badge&logoColor=F3F4F6" />
 <br/><br/>
-Engineered automated ETL pipelines with document-level deduplication, audit tables, and Decimal-precision guarantees.
+Built automated ETL pipelines with document-level deduplication, validation rules, and error tracking tables.
 <br/><br/>
 </td>
 </tr>
@@ -46,16 +46,16 @@ Engineered automated ETL pipelines with document-level deduplication, audit tabl
 <br/><br/>
 <img src="https://img.shields.io/badge/DAX_ENGINE-70%2B_MEASURES-0d1117?style=for-the-badge&logoColor=F3F4F6" />
 <br/><br/>
-Built P&L & Balance Sheet semantic models using <b>PBIP / TMDL</b> Git version control.
+Built P&L and Balance Sheet semantic models using <b>PBIP / TMDL</b> with Git version control.
 <br/><br/>
 </td>
 <td width="50%" valign="top">
 <br/>
 <img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;<b>AI WORKFLOWS & AUTOMATION</b>
 <br/><br/>
-<img src="https://img.shields.io/badge/AI_SYSTEMS-SCHEMA_%26_EVIDENCE-0d1117?style=for-the-badge&logoColor=F3F4F6" />
+<img src="https://img.shields.io/badge/AI_TOOLING-WORKFLOW_SYSTEMS-0d1117?style=for-the-badge&logoColor=F3F4F6" />
 <br/><br/>
-Integrated LLM agent pipelines, schema graph visualizers, and automated work evidence collection tools.
+Integrated LLM agent workflows, schema graph visualizers, and automated work evidence collection tools.
 <br/><br/>
 </td>
 </tr>
@@ -63,11 +63,11 @@ Integrated LLM agent pipelines, schema graph visualizers, and automated work evi
 
 ---
 
-### <img src="https://api.iconify.design/lucide:layers.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Tech Stack & Domain Expertise
+### <img src="https://api.iconify.design/lucide:layers.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;Tech Stack & Tools
 
 <table width="100%">
 <tr>
-<td width="25%"><b>Analytics & Enterprise BI</b></td>
+<td width="25%"><b>BI & Semantic Modeling</b></td>
 <td>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=000000" />
@@ -78,7 +78,7 @@ Integrated LLM agent pipelines, schema graph visualizers, and automated work evi
 </td>
 </tr>
 <tr>
-<td width="25%"><b>Data Engineering</b></td>
+<td width="25%"><b>Database & Data Engineering</b></td>
 <td>
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/T--SQL-CC292B?style=flat-square" />
@@ -114,7 +114,7 @@ Integrated LLM agent pipelines, schema graph visualizers, and automated work evi
 
 `Python` `PostgreSQL` `Pydantic` `pdfplumber` `GitHub Actions`
 ```text
-✓ Outcome: Zero-data-loss guaranteed via 3-tier validation & error logging
+✓ Key Focus: 3-tier validation (Pass/Warn/Reject) & audit logging to prevent silent failures
 ```
 
 </td>
@@ -125,7 +125,7 @@ Integrated LLM agent pipelines, schema graph visualizers, and automated work evi
 
 `Python` `PostgreSQL` `Obsidian Graph` `LLM Tooling`
 ```text
-✓ Outcome: Instant relational graph navigation & AI schema comprehension
+✓ Key Focus: Visual relational graph mapping and schema exploration for complex databases
 ```
 
 </td>
@@ -134,11 +134,11 @@ Integrated LLM agent pipelines, schema graph visualizers, and automated work evi
 <td width="100%" colspan="2" valign="top">
 
 #### <img src="https://api.iconify.design/lucide:trending-up.svg?color=%23F3F4F6" width="20" valign="middle" /> [Financial Dashboard & DAX Engine](https://github.com/adulsaa-q)
-> **Enterprise Financial Model** · P&L and Balance Sheet Power BI model featuring 70+ custom DAX measures and TMDL version control.
+> **Tabular Financial Model** · P&L and Balance Sheet Power BI model featuring 70+ custom DAX measures and TMDL version control.
 
 `Power BI` `PBIP/TMDL` `T-SQL` `DAX`
 ```text
-✓ Outcome: Achieved 100% data precision in multi-profit-center P&L and Balance Sheet reconciliation
+✓ Key Focus: Multi-profit-center P&L and Balance Sheet reconciliation with version-controlled semantic models
 ```
 
 </td>
@@ -147,23 +147,22 @@ Integrated LLM agent pipelines, schema graph visualizers, and automated work evi
 
 ---
 
-### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23F2F0EF" width="22" valign="middle" /> &nbsp;System Telemetry & Terminal Console
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%23F2F0EF" width="22" valign="middle" /> &nbsp;System Telemetry & Working Stack
 
 ```text
-[SYS_TELEMETRY // TERMINAL_CONSOLE_v2.6]
+[SYS_TELEMETRY // WORKSPACE_STATUS]
 ───────────────────────────────────────────────────────────────────────────────────────────────────
-$ q-sys --fetch-capabilities
-[OK] Diagnostic Complete. Core Capabilities Verified:
+$ q-sys --list-active-modules
+[OK] Environment & Active Working Stack:
 
-  ▸ POWER_BI_DAX       : [====================] 98%  (PBIP/TMDL 70+ DAX)
-  ▸ FINANCIAL_RECON    : [====================] 98%  (Multi-Center P&L & Balance Sheet)
-  ▸ SQL_SERVER_TSQL    : [==================  ] 92%  (Query Tuning & Indexing Audit)
-  ▸ DATA_PIPELINES_ETL : [=================   ] 90%  (Idempotent Ingestion & Postgres)
-  ▸ PROCESS_AUTOMATION : [================    ] 88%  (PowerShell, CLI Tools & APIs)
-  ▸ AGENTIC_AI_SYSTEMS : [===============     ] 85%  (LLM Workflows & Schema Graph)
+  ▸ POWER_BI_SEMANTIC_MODEL : ACTIVE  (PBIP/TMDL, 70+ DAX Measures, Financial Recon)
+  ▸ TSQL_DATA_MODELING      : ACTIVE  (Star Schema, Stored Procs, Query Optimization)
+  ▸ DATA_PIPELINES_ETL      : ACTIVE  (Idempotent Ingestion, PostgreSQL, pdfplumber)
+  ▸ PROCESS_AUTOMATION      : ACTIVE  (Python, PowerShell, REST APIs, GitHub Actions)
+  ▸ AI_ASSISTED_WORKFLOWS   : ACTIVE  (LLM Pipeline Tooling, Schema-Map, Evidence Logging)
 
 $ q-sys --status
-STATUS: ACTIVE_SYSTEM // READY_FOR_ENTERPRISE_DEPLOYMENT
+STATUS: OPERATIONAL // BUILDING_PRODUCTION_SYSTEMS
 ```
 
 ---
