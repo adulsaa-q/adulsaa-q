@@ -1,16 +1,15 @@
 <div align="center">
 
-  <h1 style="color: #F2F0EF; font-size: 2.4em; font-weight: 800; letter-spacing: 1px; margin-bottom: 6px;">Q (ADUL SA-A)</h1>
-  <h3 style="color: #E5E7EB; font-weight: 600; margin-top: 0;">BI & DATA SPECIALIST · AUTOMATION & AI WORKFLOWS</h3>
+  <h1 style="color: #F2F0EF; font-size: 2.4em; font-weight: 800; letter-spacing: 1px; margin-bottom: 6px;">BI & DATA ARCHITECT · AI SYSTEMS</h1>
+  <h3 style="color: #E5E7EB; font-weight: 600; margin-top: 0;">ENTERPRISE BI · DATA PIPELINES · MULTI-AGENT WORKFLOWS</h3>
 
-  <sub>Power BI Semantic Models (PBIR/DAX) · T-SQL & Data Modeling · Idempotent Data Pipelines · AI-Integrated Tooling</sub>
+  <sub>Power BI Semantic Models (PBIR/TMDL) · T-SQL & Data Modeling · Idempotent Data Pipelines · Multi-Agent Governance</sub>
 
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/adulsaa"><img src="https://img.shields.io/badge/LinkedIn-F2F0EF?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>&nbsp;
   <a href="https://github.com/adulsaa-q"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="mailto:adulsaa.q@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <img src="https://img.shields.io/badge/Focus-BI_%26_Data_Pipelines-0d1117?style=for-the-badge&logoColor=F2F0EF" />
+  <img src="https://img.shields.io/badge/Focus-BI_%26_AI_Systems-0d1117?style=for-the-badge&logoColor=F2F0EF" />&nbsp;
+  <img src="https://img.shields.io/badge/Status-Building_Production_Systems-success?style=for-the-badge" />
 
 </div>
 
@@ -26,7 +25,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/SEMANTIC_MODEL-AUDITED_RECON-0d1117?style=for-the-badge&logoColor=F3F4F6" />
 <br/><br/>
-Reconciled multi-profit-center P&L and Balance Sheet models against financial statements with precision.
+Reconciled multi-profit-center P&L and Balance Sheet models against financial statements with zero variance precision.
 <br/><br/>
 </td>
 <td width="50%" valign="top">
@@ -51,11 +50,11 @@ Built P&L and Balance Sheet semantic models using <b>PBIP / TMDL</b> with Git ve
 </td>
 <td width="50%" valign="top">
 <br/>
-<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;<b>AI WORKFLOWS & AUTOMATION</b>
+<img src="https://api.iconify.design/lucide:brain-circuit.svg?color=%23F3F4F6" width="22" valign="middle" /> &nbsp;<b>MULTI-AGENT GOVERNANCE</b>
 <br/><br/>
-<img src="https://img.shields.io/badge/AI_TOOLING-WORKFLOW_SYSTEMS-0d1117?style=for-the-badge&logoColor=F3F4F6" />
+<img src="https://img.shields.io/badge/AI_GOVERNANCE-COMMAND_CENTER-0d1117?style=for-the-badge&logoColor=F3F4F6" />
 <br/><br/>
-Integrated LLM agent workflows, schema graph visualizers, and automated work evidence collection tools.
+Architected 4-tier asymmetric multi-agent operating systems with SQLite evidence ledgers and token budgeting.
 <br/><br/>
 </td>
 </tr>
@@ -83,19 +82,19 @@ Integrated LLM agent workflows, schema graph visualizers, and automated work evi
   <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/T--SQL-CC292B?style=flat-square" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td width="25%"><b>Automation & AI Workflows</b></td>
+<td width="25%"><b>Automation & AI Systems</b></td>
 <td>
-  <img src="https://img.shields.io/badge/Agentic_AI-8E75B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--Agent_AI-8E75B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API_ETL-009688?style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </td>
 </tr>
@@ -109,12 +108,36 @@ Integrated LLM agent workflows, schema graph visualizers, and automated work evi
 <tr>
 <td width="50%" valign="top">
 
+#### <img src="https://api.iconify.design/lucide:cpu.svg?color=%23F3F4F6" width="20" valign="middle" /> [AI Command Center](https://github.com/adulsaa-q/ai-command-center)
+> **Multi-Agent Governance Framework** · A field-tested operating model, asymmetric authority hierarchy, and SQLite evidence engine for autonomous AI engineering.
+
+`Markdown` `SQLite` `Git` `Python` `Multi-Agent`
+```text
+✓ Key Focus: 4-tier authority model, token budgeting, and zero context pollution
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide:clock.svg?color=%23F3F4F6" width="20" valign="middle" /> [TIMELIMIT](https://github.com/adulsaa-q/timelimit)
+> **Precision Desktop Countdown Instrument** · Lightweight Windows desktop widget for deadline tracking, deduction engine, and career accountability.
+
+`Electron` `React` `TypeScript` `Vitest` `TailwindCSS`
+```text
+✓ Key Focus: 100% offline, tabular numeric rendering, and atomic persistence
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### <img src="https://api.iconify.design/lucide:shield-check.svg?color=%23F3F4F6" width="20" valign="middle" /> [Personal Finance ETL Pipeline](https://github.com/adulsaa-q/finance-etl-pipeline)
 > **Idempotent ETL Engine** · Automated Gmail IMAP attachment ingestion, encrypted PDF parsing, and Postgres loading with document-level deduplication.
 
 `Python` `PostgreSQL` `Pydantic` `pdfplumber` `GitHub Actions`
 ```text
-✓ Key Focus: 3-tier validation (Pass/Warn/Reject) & audit logging to prevent silent failures
+✓ Key Focus: 3-tier validation (Pass/Warn/Reject) & audit logging
 ```
 
 </td>
@@ -125,20 +148,7 @@ Integrated LLM agent workflows, schema graph visualizers, and automated work evi
 
 `Python` `PostgreSQL` `Obsidian Graph` `LLM Tooling`
 ```text
-✓ Key Focus: Visual relational graph mapping and schema exploration for complex databases
-```
-
-</td>
-</tr>
-<tr>
-<td width="100%" colspan="2" valign="top">
-
-#### <img src="https://api.iconify.design/lucide:trending-up.svg?color=%23F3F4F6" width="20" valign="middle" /> [Financial Dashboard & DAX Engine](https://github.com/adulsaa-q)
-> **Tabular Financial Model** · P&L and Balance Sheet Power BI model featuring 70+ custom DAX measures and TMDL version control.
-
-`Power BI` `PBIP/TMDL` `T-SQL` `DAX`
-```text
-✓ Key Focus: Multi-profit-center P&L and Balance Sheet reconciliation with version-controlled semantic models
+✓ Key Focus: Visual relational graph mapping and schema exploration
 ```
 
 </td>
@@ -152,16 +162,16 @@ Integrated LLM agent workflows, schema graph visualizers, and automated work evi
 ```text
 [SYS_TELEMETRY // WORKSPACE_STATUS]
 ───────────────────────────────────────────────────────────────────────────────────────────────────
-$ q-sys --list-active-modules
+$ sys --list-active-modules
 [OK] Environment & Active Working Stack:
 
   ▸ POWER_BI_SEMANTIC_MODEL : ACTIVE  (PBIP/TMDL, 70+ DAX Measures, Financial Recon)
+  ▸ MULTI_AGENT_GOVERNANCE  : ACTIVE  (Command Center v2.0, SQLite Evidence, Token Budgets)
   ▸ TSQL_DATA_MODELING      : ACTIVE  (Star Schema, Stored Procs, Query Optimization)
   ▸ DATA_PIPELINES_ETL      : ACTIVE  (Idempotent Ingestion, PostgreSQL, pdfplumber)
-  ▸ PROCESS_AUTOMATION      : ACTIVE  (Python, PowerShell, REST APIs, GitHub Actions)
-  ▸ AI_ASSISTED_WORKFLOWS   : ACTIVE  (LLM Pipeline Tooling, Schema-Map, Evidence Logging)
+  ▸ DESKTOP_ENGINEERING     : ACTIVE  (TypeScript, Electron, Vitest 27/27, Atomic Storage)
 
-$ q-sys --status
+$ sys --status
 STATUS: OPERATIONAL // BUILDING_PRODUCTION_SYSTEMS
 ```
 
