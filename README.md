@@ -2,7 +2,7 @@
 
   <h1 style="color: #F2F0EF; font-size: 2.3em; font-weight: 800; letter-spacing: 0.5px; margin-bottom: 6px;">Adul Sa-a (Q)</h1>
   <p style="color: #9CA3AF; font-size: 1.05em; margin-top: 0; margin-bottom: 12px;">
-    <b>Data & BI Systems Architect</b> · Enterprise Modeling · Data Pipelines · Multi-Agent Tooling
+    <b>Data & BI Developer</b> · Enterprise Modeling · Data Pipelines · Multi-Agent Tooling
   </p>
 
   <a href="https://adulsaa-q.pages.dev/"><img src="https://img.shields.io/badge/Live_Portfolio-adulsaa--q.pages.dev-0d1117?style=for-the-badge&logo=cloudflarepages&logoColor=F38020" /></a>&nbsp;
