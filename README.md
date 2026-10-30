@@ -23,7 +23,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/POWER_BI-FINANCIAL_RECON-0d1117?style=for-the-badge&logoColor=F3F4F6" />
 <br/><br/>
-P&L and Balance Sheet models across multiple profit centers. Fully version-controlled via PBIP/TMDL and reconciled against accounting ledgers down to zero variance.
+P&L and Balance Sheet models across multiple profit centers. Fully version-controlled via PBIP/TMDL and reconciled against accounting ledgers, with every difference traced to a root cause and any residual under 1 THB.
 <br/><br/>
 </td>
 <td width="50%" valign="top">
@@ -118,12 +118,12 @@ Role separation, token budgeting, and file locking across local agents
 </td>
 <td width="50%" valign="top">
 
-#### <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%23F3F4F6" width="18" valign="middle" /> [Shopee Thailand Analytics](https://github.com/adulsaa-q/shopee-thailand-analytics)
-> 300K+ transactional order dataset modeled into a star schema with T-SQL and Power BI.
+#### <img src="https://api.iconify.design/lucide:map.svg?color=%23F3F4F6" width="18" valign="middle" /> [schema-compass](https://github.com/adulsaa-q/schema-compass)
+> MCP server that gives AI coding agents a compact map of a database schema, finds join paths, and checks SQL with a read-only guard.
 
-`Power BI` `DAX` `T-SQL` `Star Schema` `Data Modeling`
+`Python` `MCP` `sqlglot` `SQLite` `GitHub Actions`
 ```text
-Multi-year margin analysis, return patterns, and DAX reconciliation
+Warns when a join multiplies rows. Reads SQLite and JSON schema exports today
 ```
 
 </td>
@@ -155,7 +155,7 @@ Document deduplication, 3-tier validation rules, and run history
 </table>
 
 <div align="center">
-  <sub>Other tools: <a href="https://github.com/adulsaa-q/schema-map"><b>Schema-Map</b></a> (Postgres schema to Obsidian graph) · <a href="https://github.com/adulsaa-q/AIE-Pulse-Meridian"><b>AIE-Pulse-Meridian</b></a> (Market signals) · <a href="https://github.com/adulsaa-q/housemark"><b>Housemark</b></a> (Frontend rules)</sub>
+  <sub>Also: <a href="https://github.com/adulsaa-q/shopee-thailand-analytics"><b>Shopee Thailand Analytics</b></a> (300K orders, star schema, Power BI) · <a href="https://github.com/adulsaa-q/schema-map"><b>Schema-Map</b></a> (Postgres schema to Obsidian graph) · <a href="https://github.com/adulsaa-q/AIE-Pulse-Meridian"><b>AIE-Pulse-Meridian</b></a> (Market signals) · <a href="https://github.com/adulsaa-q/housemark"><b>Housemark</b></a> (Frontend rules)</sub>
 </div>
 
 ---
@@ -172,6 +172,7 @@ $ sys --list-active-modules
   ▸ TSQL_DATA_MODELING      : ACTIVE  (Star schema, stored procs, 300K+ order dataset)
   ▸ DATA_PIPELINES_ETL      : ACTIVE  (DuckDB & Postgres, PDF parsing, deduplication)
   ▸ GEO_BRAND_INTELLIGENCE  : ACTIVE  (AI search tracking, FastAPI, Gemini API)
+  ▸ SCHEMA_TOOLING          : ACTIVE  (MCP server, join-path search, read-only SQL guard)
 
 $ sys --status
 STATUS: OPERATIONAL
